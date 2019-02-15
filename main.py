@@ -14,6 +14,6 @@ aman.adding(MyClass('Shamel', 'Kostanay', 'Student'))
 print(ali.inter(aman))
 print(rauan.subs(aman))
 print(rauan.eq(ali))
-
+ 
 for i in rauan:
       i.meth_1()
