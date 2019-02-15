@@ -11,4 +11,3 @@ class LinkedListIterator():
       data = self.curNode.data
       self.curNode = self.curNode.next
       return data
-
